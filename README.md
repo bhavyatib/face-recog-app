@@ -21,32 +21,32 @@ Steps to Run:
 1. Install Python
 
 2. Install Django
-This project needs django to run. To install, please run : sudo pip install -r requirements.txt
+  This project needs django to run. To install, please run : sudo pip install -r requirements.txt
 
 3. Enter the following commands:
-cd trialproject
-python manage.py runserver
+  cd trialproject
+  python manage.py runserver
 
 If you are running the app for the first time, you may need to run:
-python manage.py makemigrations auth_module stud_module prof_module
-python manage.py migrate
+  python manage.py makemigrations auth_module stud_module prof_module
+  python manage.py migrate
 
 Go to the following website on your browser:
-http://127.0.0.1:8000/
+  http://127.0.0.1:8000/
 
 
 You can use the following credentials to login to the Professor's Module:
-username: professor@gmail.com
-password: prof123@
+  username: professor@gmail.com
+  password: prof123@
 
 You can use the following credentials to login to the Student's Module:
-username: f20191404@hyderabad.bits-pilani.ac.in
-password: 123567
+  username: f20191404@hyderabad.bits-pilani.ac.in
+  password: 123567
 
 You can use the following credentials to login to the Django Admin Dashboard:
-website: http://127.0.0.1:8000/admin
-username: bhavyatibrewala
-password: bhavyadjango
+  website: http://127.0.0.1:8000/admin
+  username: bhavyatibrewala
+  password: bhavyadjango
 
 
 Unfortunately, due to the API malfunctioning, the Take Attendance module is currently not functional. However, all the other modules are fully functional. I am working on changing the API to make the project complete. This will take another week.
