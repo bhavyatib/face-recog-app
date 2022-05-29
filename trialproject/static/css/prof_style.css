@@ -1,0 +1,47 @@
+html, body {
+    background-color:#EEEDED;
+}
+.box2{
+	background-color:#EEEDED;
+	text-align:center;	
+}
+.box3{
+	background-color:#EEEDED;	
+	margin-top:-20px; 
+	text-align:center;
+}
+.box1{
+	height: 7em;
+	background-color: lightblue;
+	border-top-left-radius: 7px;
+  	border-top-right-radius: 7px;
+  	border-bottom-left-radius: 7px;
+  	border-bottom-right-radius: 7px;
+  	text-align:center;
+}
+.box1 form{
+	background-color:#EEEDED;
+}
+.box1 .head3{
+	margin: 5px 10px 10px 550px;
+}
+#button1{
+	margin: 5px 10px 15px 650px;
+}
+#button10{
+	float:right;
+	margin: -3em 1em 0em 0em;
+}
+
+#button12{
+	float:right;
+	margin: -3em 1em 0em 0em;
+}
+
+#button11{
+	margin: -62px 10px 15px 750px;
+}
+
+#message{
+	margin: 25px 10px 15px 540px;
+}

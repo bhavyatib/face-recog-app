@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="UTF-8">
+    <title>Easy Attendance</title>
+    {% load static %}
+    <link rel='stylesheet prefetch' href="{% static "css/auth/reset.css" %}">
+    <link rel='stylesheet prefetch' href="{% static "css/auth/api.css" %}">
+    <link rel='stylesheet prefetch' href="{% static "css/auth/monster.css" %}">
+    <link rel='stylesheet prefetch' href="{% static "css/auth/min.css" %}">
+    <link rel="stylesheet" href="{% static "css/auth/style.css" %}">
+    <script src="{% static "js/min.js" %}"></script>
+    <script src="{% static "js/index.js" %}"></script>
+    <body>
+      <div class="container">
+        <div class="info">
+          <h1>Easy Attendance</h1>
+        </div>
+      </div>
+      <div class="container">
+        {% if messages %}
+          {% for message in messages %}
+            <span {% if message.tags %} class="{{ message.tags }}"{% endif %}>{{ message }}</span><br>
+          {% endfor %}
+        {% endif %}
+    </div>
+      <<div class="form">
+        <div class="thumbnail">
+          <img src="{% static "css/auth/hat.svg" %}" alt="Hat"/>
+        </div>
+       </form>
+        <form action="/verify/" method="post">
+      Name:<br>
+      <input type="text" name="name"><br>
+      Email:<br>
+      <input type="text" name="email"><br>
+        <button>Create</button>
+         <p class="message">Already registered? <a href="/login">Sign In</a></p>
+        </form>
+      </div>
+    </body>
+</html>

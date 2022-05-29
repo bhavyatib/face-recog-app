@@ -1,0 +1,497 @@
+[14/May/2022 17:52:02] INFO [auth_module:32] Signing up
+[14/May/2022 17:52:16] INFO [auth_module:32] Signing up
+[18/May/2022 03:11:08] INFO [auth_module:205] Prof Logging in
+[18/May/2022 03:13:46] INFO [auth_module:205] Prof Logging in
+[18/May/2022 03:17:30] INFO [prof_module:36] Prof Professor went to his home page
+[18/May/2022 03:21:37] INFO [prof_module:36] Prof Professor went to his home page
+[18/May/2022 03:21:40] INFO [prof_module:36] Prof Professor went to his home page
+[18/May/2022 03:31:12] INFO [prof_module:36] Prof Professor went to his home page
+[18/May/2022 03:31:19] INFO [auth_module:205] Prof Logging in
+[18/May/2022 03:31:19] INFO [prof_module:36] Prof Professor went to his home page
+[19/May/2022 11:57:55] INFO [auth_module:205] Prof Logging in
+[19/May/2022 11:57:55] INFO [prof_module:36] Prof Professor went to his home page
+[19/May/2022 11:57:58] INFO [auth_module:39] Prof Logging out
+[23/May/2022 05:08:37] INFO [auth_module:205] Prof Logging in
+[23/May/2022 05:08:37] INFO [prof_module:36] Prof Professor went to his home page
+[23/May/2022 05:08:39] INFO [auth_module:39] Prof Logging out
+[23/May/2022 05:21:10] INFO [auth_module:205] Prof Logging in
+[23/May/2022 05:21:10] INFO [prof_module:36] Prof Professor went to his home page
+[23/May/2022 05:21:12] INFO [auth_module:39] Prof Logging out
+[23/May/2022 05:42:30] INFO [auth_module:205] Prof Logging in
+[23/May/2022 05:42:30] INFO [prof_module:36] Prof Professor went to his home page
+[23/May/2022 05:42:38] INFO [auth_module:39] Prof Logging out
+[23/May/2022 05:47:13] INFO [auth_module:205] Prof Logging in
+[23/May/2022 05:47:13] INFO [prof_module:36] Prof Professor went to his home page
+[23/May/2022 12:21:48] INFO [prof_module:36] Prof Professor went to his home page
+[23/May/2022 12:21:50] INFO [auth_module:39] Prof Logging out
+[23/May/2022 19:54:37] INFO [auth_module:205] Prof Logging in
+[23/May/2022 19:54:37] INFO [prof_module:35] Prof Professor went to his home page
+[23/May/2022 19:55:16] INFO [auth_module:39] Prof Logging out
+[23/May/2022 19:55:41] INFO [auth_module:205] Student1 Logging in
+[23/May/2022 19:56:45] INFO [stud_module:33] Student1 Student went to his home page
+[23/May/2022 19:56:52] INFO [stud_module:86] Student1 Student saw the daily report
+[23/May/2022 19:56:55] INFO [stud_module:33] Student1 Student went to his home page
+[23/May/2022 19:56:56] INFO [auth_module:39] Student1 Logging out
+[24/May/2022 05:59:02] INFO [auth_module:205] Prof Logging in
+[24/May/2022 05:59:02] INFO [prof_module:35] Prof Professor went to his home page
+[24/May/2022 07:20:38] INFO [auth_module:205] Prof Logging in
+[24/May/2022 07:20:38] INFO [prof_module:35] Prof Professor went to his home page
+[24/May/2022 07:20:42] INFO [prof_module:35] Prof Professor went to his home page
+[24/May/2022 07:22:23] INFO [auth_module:205] Student1 Logging in
+[24/May/2022 07:22:23] INFO [stud_module:33] Student1 Student went to his home page
+[24/May/2022 07:22:26] INFO [stud_module:86] Student1 Student saw the daily report
+[24/May/2022 07:32:15] INFO [stud_module:33] Student1 Student went to his home page
+[24/May/2022 07:32:16] INFO [stud_module:33] Student1 Student went to his home page
+[24/May/2022 07:32:25] INFO [stud_module:86] Student1 Student saw the daily report
+[24/May/2022 07:32:28] INFO [auth_module:39] Student1 Logging out
+[24/May/2022 07:32:42] INFO [stud_module:33] Student1 Student went to his home page
+[24/May/2022 07:32:44] INFO [auth_module:39] Student1 Logging out
+[24/May/2022 07:33:55] INFO [auth_module:39] Student1 Logging out
+[24/May/2022 07:34:09] INFO [auth_module:205] Prof Logging in
+[24/May/2022 07:34:11] INFO [auth_module:205] Prof Logging in
+[24/May/2022 07:34:12] INFO [auth_module:205] Prof Logging in
+[24/May/2022 07:34:18] INFO [auth_module:205] Prof Logging in
+[24/May/2022 07:34:18] INFO [auth_module:205] Prof Logging in
+[24/May/2022 07:34:22] INFO [auth_module:205] Prof Logging in
+[24/May/2022 07:35:08] INFO [auth_module:205] Prof Logging in
+[24/May/2022 07:35:16] INFO [auth_module:205] Prof Logging in
+[24/May/2022 07:35:17] INFO [auth_module:205] Prof Logging in
+[24/May/2022 07:36:17] INFO [auth_module:205] Prof Logging in
+[24/May/2022 07:36:18] INFO [auth_module:205] Prof Logging in
+[24/May/2022 07:36:39] INFO [auth_module:205] Prof Logging in
+[24/May/2022 07:36:39] INFO [prof_module:35] Prof Professor went to his home page
+[24/May/2022 07:36:44] INFO [auth_module:39] Prof Logging out
+[24/May/2022 07:36:52] INFO [auth_module:205] Student1 Logging in
+[24/May/2022 07:36:52] INFO [stud_module:33] Student1 Student went to his home page
+[24/May/2022 07:36:54] INFO [auth_module:39] Student1 Logging out
+[24/May/2022 07:36:56] INFO [auth_module:32] Signing up
+[24/May/2022 07:37:09] DEBUG [email_signup:46] (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials jh12-20020a170903328c00b00161a2d98a8esm6395590plb.226 - gsmtp')
+[24/May/2022 07:37:09] WARNING [email_signup:47] Mail could not be sent
+[24/May/2022 09:33:48] INFO [auth_module:205] Prof Logging in
+[24/May/2022 09:33:48] INFO [prof_module:35] Prof Professor went to his home page
+[24/May/2022 09:33:51] INFO [auth_module:39] Prof Logging out
+[24/May/2022 10:43:49] INFO [auth_module:205] Prof Logging in
+[24/May/2022 10:43:49] INFO [prof_module:35] Prof Professor went to his home page
+[24/May/2022 10:43:52] INFO [auth_module:39] Prof Logging out
+[24/May/2022 10:51:53] INFO [auth_module:205] Prof Logging in
+[24/May/2022 10:51:53] INFO [prof_module:35] Prof Professor went to his home page
+[24/May/2022 10:53:44] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[24/May/2022 10:53:47] INFO [prof_module:74] Prof Professor saw the daily report of CS1100 corresponding to the date 2022/05/24
+[24/May/2022 10:53:51] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[24/May/2022 10:53:52] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[24/May/2022 10:53:54] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[24/May/2022 10:53:55] INFO [prof_module:198] Prof Professor saw queries for CS1100
+[24/May/2022 10:53:57] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[24/May/2022 10:53:59] INFO [prof_module:35] Prof Professor went to his home page
+[24/May/2022 10:54:03] INFO [auth_module:39] Prof Logging out
+[24/May/2022 10:54:10] INFO [auth_module:205] Student1 Logging in
+[24/May/2022 10:54:10] INFO [stud_module:33] Student1 Student went to his home page
+[24/May/2022 10:54:13] INFO [stud_module:63] Student1 Student went to CS1100 course page
+[24/May/2022 10:54:19] INFO [stud_module:237] Student1 Student saw his history for CS1100 corresponding to the date 05/05/2022
+[24/May/2022 10:54:21] INFO [stud_module:63] Student1 Student went to CS1100 course page
+[24/May/2022 10:54:22] INFO [auth_module:39] Student1 Logging out
+[25/May/2022 05:12:03] INFO [auth_module:205] Prof Logging in
+[25/May/2022 05:12:03] INFO [prof_module:35] Prof Professor went to his home page
+[25/May/2022 05:12:05] INFO [prof_module:50] Prof Professor went to CS1300 course page
+[25/May/2022 05:12:09] INFO [prof_module:198] Prof Professor saw queries for CS1300
+[25/May/2022 05:12:10] INFO [prof_module:50] Prof Professor went to CS1300 course page
+[25/May/2022 05:12:11] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[25/May/2022 05:12:15] INFO [prof_module:50] Prof Professor went to CS1300 course page
+[25/May/2022 05:12:16] INFO [prof_module:35] Prof Professor went to his home page
+[25/May/2022 09:13:22] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[25/May/2022 09:13:25] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[25/May/2022 09:14:03] INFO [auth_module:39] Prof Logging out
+[25/May/2022 09:14:08] INFO [auth_module:205] Student1 Logging in
+[25/May/2022 09:14:08] INFO [stud_module:33] Student1 Student went to his home page
+[25/May/2022 09:14:11] INFO [stud_module:86] Student1 Student saw the daily report
+[25/May/2022 09:14:20] INFO [stud_module:86] Student1 Student saw the daily report
+[25/May/2022 09:14:21] INFO [stud_module:33] Student1 Student went to his home page
+[25/May/2022 09:18:01] INFO [auth_module:39] Student1 Logging out
+[25/May/2022 09:18:06] INFO [auth_module:205] Prof Logging in
+[25/May/2022 09:18:06] INFO [prof_module:35] Prof Professor went to his home page
+[25/May/2022 09:18:08] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[25/May/2022 09:48:58] INFO [auth_module:32] Signing up
+[25/May/2022 09:49:13] DEBUG [email_signup:46] (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials u6-20020a17090341c600b0015e8d4eb2d8sm8860346ple.290 - gsmtp')
+[25/May/2022 09:49:13] WARNING [email_signup:47] Mail could not be sent
+[25/May/2022 10:20:49] INFO [auth_module:32] Signing up
+[25/May/2022 10:21:06] DEBUG [email_signup:46] (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials c1-20020a170902d48100b0015e8d4eb29csm9043136plg.230 - gsmtp')
+[25/May/2022 10:21:06] WARNING [email_signup:47] Mail could not be sent
+[25/May/2022 10:51:12] INFO [auth_module:32] Signing up
+[25/May/2022 10:51:32] DEBUG [email_signup:46] (534, b'5.7.9 Application-specific password required. Learn more at\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor w66-20020a626245000000b0050dc7628141sm11019847pfb.27 - gsmtp')
+[25/May/2022 10:51:32] WARNING [email_signup:47] Mail could not be sent
+[25/May/2022 10:54:41] DEBUG [email_signup:46] (534, b'5.7.9 Application-specific password required. Learn more at\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor z23-20020a17090a015700b001df4c5cab51sm1488275pje.15 - gsmtp')
+[25/May/2022 10:54:41] WARNING [email_signup:47] Mail could not be sent
+[25/May/2022 10:54:59] DEBUG [email_signup:46] (534, b'5.7.9 Application-specific password required. Learn more at\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor h3-20020a170902748300b00161929fb1adsm8956949pll.54 - gsmtp')
+[25/May/2022 10:54:59] WARNING [email_signup:47] Mail could not be sent
+[25/May/2022 10:55:04] INFO [auth_module:32] Signing up
+[25/May/2022 10:58:27] INFO [auth_module:32] Signing up
+[25/May/2022 10:58:39] INFO [email_signup:40] Generated mail content for signup
+[25/May/2022 10:58:41] INFO [email_signup:43] Mail sent successfully to nikhil@raghavpolymers.com
+[25/May/2022 11:00:53] INFO [email_signup:40] Generated mail content for signup
+[25/May/2022 11:00:55] INFO [email_signup:43] Mail sent successfully to manisha@raghavpolymers.com
+[25/May/2022 11:01:40] INFO [auth_module:206] Ishita Logging in
+[25/May/2022 11:01:41] INFO [stud_module:33] Ishita Student went to his home page
+[25/May/2022 11:03:01] INFO [email_signup:40] Generated mail content for signup
+[25/May/2022 11:03:03] INFO [email_signup:43] Mail sent successfully to raghav@raghavpolymers.com
+[25/May/2022 11:03:23] INFO [email_signup:40] Generated mail content for signup
+[25/May/2022 11:03:25] INFO [email_signup:43] Mail sent successfully to f20191404@hyderabad.bits-pilani.ac.in
+[25/May/2022 11:10:30] INFO [auth_module:206] Prof. Gupta Logging in
+[25/May/2022 11:10:30] INFO [prof_module:35] Prof. Gupta Professor went to his home page
+[25/May/2022 15:27:28] INFO [auth_module:39]  Logging out
+[25/May/2022 15:31:23] INFO [auth_module:206] Student1 Logging in
+[25/May/2022 15:31:23] INFO [stud_module:33] Student1 Student went to his home page
+[25/May/2022 15:32:11] INFO [auth_module:39] Student1 Logging out
+[25/May/2022 15:32:20] INFO [auth_module:206] Prof Logging in
+[25/May/2022 15:32:20] INFO [prof_module:35] Prof Professor went to his home page
+[25/May/2022 15:32:26] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[25/May/2022 15:32:34] INFO [prof_module:101] Prof Professor saw the history of a CS1100 course
+[25/May/2022 15:32:34] INFO [prof_module:74] Prof Professor saw the daily report of CS1100 corresponding to the date 2022/05/04
+[25/May/2022 15:32:38] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[25/May/2022 15:32:40] INFO [prof_module:74] Prof Professor saw the daily report of CS1100 corresponding to the date 2022/05/25
+[25/May/2022 15:32:42] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[25/May/2022 15:32:43] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[25/May/2022 15:33:22] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[25/May/2022 15:33:25] INFO [prof_module:198] Prof Professor saw queries for CS1100
+[25/May/2022 15:33:32] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[25/May/2022 15:33:33] INFO [prof_module:35] Prof Professor went to his home page
+[25/May/2022 15:33:37] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[25/May/2022 15:33:42] INFO [auth_module:39] Prof Logging out
+[25/May/2022 19:18:57] INFO [auth_module:206] Prof Logging in
+[25/May/2022 19:18:57] INFO [prof_module:35] Prof Professor went to his home page
+[25/May/2022 19:19:15] INFO [prof_module:50] Prof Professor went to CS1300 course page
+[25/May/2022 19:19:32] INFO [prof_module:101] Prof Professor saw the history of a CS1300 course
+[25/May/2022 19:19:32] INFO [prof_module:74] Prof Professor saw the daily report of CS1300 corresponding to the date 2022/05/01
+[25/May/2022 19:19:37] INFO [prof_module:50] Prof Professor went to CS1300 course page
+[25/May/2022 19:19:39] INFO [prof_module:74] Prof Professor saw the daily report of CS1300 corresponding to the date 2022/05/25
+[25/May/2022 19:19:42] INFO [prof_module:50] Prof Professor went to CS1300 course page
+[25/May/2022 19:19:45] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[25/May/2022 19:19:52] INFO [prof_module:50] Prof Professor went to CS1300 course page
+[25/May/2022 19:19:55] INFO [prof_module:198] Prof Professor saw queries for CS1300
+[25/May/2022 19:22:25] INFO [prof_module:50] Prof Professor went to CS1300 course page
+[25/May/2022 19:22:29] INFO [prof_module:35] Prof Professor went to his home page
+[25/May/2022 19:22:52] INFO [auth_module:39] Prof Logging out
+[25/May/2022 19:23:00] INFO [auth_module:206] Student1 Logging in
+[25/May/2022 19:23:00] INFO [stud_module:33] Student1 Student went to his home page
+[25/May/2022 19:23:08] INFO [stud_module:86] Student1 Student saw the daily report
+[25/May/2022 19:23:17] INFO [stud_module:86] Student1 Student saw the daily report
+[25/May/2022 19:23:19] INFO [stud_module:33] Student1 Student went to his home page
+[25/May/2022 19:23:22] INFO [stud_module:63] Student1 Student went to CS1100 course page
+[25/May/2022 19:23:27] INFO [stud_module:237] Student1 Student saw his history for CS1100 corresponding to the date 04/05/2022
+[25/May/2022 19:23:29] INFO [stud_module:63] Student1 Student went to CS1100 course page
+[25/May/2022 19:23:31] INFO [stud_module:120] Student1 Student viewed CS1100 queries
+[25/May/2022 19:23:34] INFO [stud_module:63] Student1 Student went to CS1100 course page
+[25/May/2022 19:23:54] INFO [stud_module:33] Student1 Student went to his home page
+[25/May/2022 19:23:56] INFO [auth_module:39] Student1 Logging out
+[25/May/2022 19:24:06] INFO [auth_module:32] Signing up
+[25/May/2022 19:26:36] INFO [email_signup:40] Generated mail content for signup
+[25/May/2022 19:26:37] INFO [email_signup:43] Mail sent successfully to alchemy@hyderabad.bits-pilani.ac.in
+[25/May/2022 19:28:47] INFO [auth_module:206] B Logging in
+[25/May/2022 19:28:47] INFO [stud_module:33] B Student went to his home page
+[25/May/2022 19:29:01] INFO [auth_module:39] B Logging out
+[26/May/2022 05:32:04] INFO [auth_module:206] Prof Logging in
+[26/May/2022 05:32:04] INFO [prof_module:35] Prof Professor went to his home page
+[26/May/2022 05:34:21] INFO [prof_module:35]  Professor went to his home page
+[26/May/2022 05:34:47] INFO [auth_module:206] Prof Logging in
+[26/May/2022 05:34:47] INFO [prof_module:35] Prof Professor went to his home page
+[26/May/2022 05:34:51] INFO [prof_module:50] Prof Professor went to CSF211 course page
+[26/May/2022 05:38:13] INFO [auth_module:39] Prof Logging out
+[27/May/2022 06:36:49] INFO [auth_module:206] Prof Logging in
+[27/May/2022 06:36:49] INFO [prof_module:35] Prof Professor went to his home page
+[27/May/2022 06:37:12] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[27/May/2022 06:37:18] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[27/May/2022 06:37:21] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[27/May/2022 06:37:22] INFO [prof_module:35] Prof Professor went to his home page
+[27/May/2022 06:37:23] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[27/May/2022 06:37:25] INFO [prof_module:198] Prof Professor saw queries for CS1100
+[27/May/2022 06:37:33] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[27/May/2022 06:37:34] INFO [prof_module:74] Prof Professor saw the daily report of CS1100 corresponding to the date 2022/05/27
+[27/May/2022 06:37:36] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[27/May/2022 07:04:19] INFO [auth_module:39] Prof Logging out
+[27/May/2022 07:04:25] INFO [auth_module:206] Prof Logging in
+[27/May/2022 07:04:25] INFO [prof_module:35] Prof Professor went to his home page
+[27/May/2022 07:04:26] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[27/May/2022 07:07:03] INFO [prof_module:35] Prof Professor went to his home page
+[27/May/2022 07:07:04] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[27/May/2022 07:07:06] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[27/May/2022 07:07:14] INFO [prof_module:178] Prof Professor uploaded files for CS1100 and took attendance for date 2022-05-27
+[27/May/2022 07:07:14] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[27/May/2022 07:07:19] INFO [upload_attendance:29] Uploading attendance for CS1100 on 2022-05-27
+[27/May/2022 07:07:19] INFO [upload_attendance:43] Attendance entries added
+[27/May/2022 07:16:33] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[27/May/2022 07:16:37] INFO [prof_module:35] Prof Professor went to his home page
+[27/May/2022 07:16:38] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[27/May/2022 07:16:41] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[27/May/2022 07:16:49] INFO [prof_module:178] Prof Professor uploaded files for CS1100 and took attendance for date 2022-05-27
+[27/May/2022 07:16:49] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[27/May/2022 07:16:53] INFO [upload_attendance:29] Uploading attendance for CS1100 on 2022-05-27
+[27/May/2022 07:16:53] INFO [upload_attendance:48] Attendance being updated
+[27/May/2022 07:18:40] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[27/May/2022 07:18:41] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[27/May/2022 07:18:49] INFO [prof_module:178] Prof Professor uploaded files for CS1100 and took attendance for date 2022-05-27
+[27/May/2022 07:18:49] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[27/May/2022 07:18:54] INFO [upload_attendance:29] Uploading attendance for CS1100 on 2022-05-27
+[27/May/2022 07:18:54] INFO [upload_attendance:48] Attendance being updated
+[27/May/2022 07:21:47] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[27/May/2022 07:21:49] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[27/May/2022 07:21:59] INFO [prof_module:178] Prof Professor uploaded files for CS1100 and took attendance for date 2022-05-27
+[27/May/2022 07:21:59] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[27/May/2022 07:22:03] INFO [upload_attendance:29] Uploading attendance for CS1100 on 2022-05-27
+[27/May/2022 07:22:03] INFO [upload_attendance:48] Attendance being updated
+[27/May/2022 07:35:06] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[27/May/2022 07:35:07] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[27/May/2022 07:35:43] INFO [prof_module:178] Prof Professor uploaded files for CS1100 and took attendance for date 2022-05-27
+[27/May/2022 07:35:43] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[27/May/2022 07:35:46] INFO [upload_attendance:29] Uploading attendance for CS1100 on 2022-05-27
+[27/May/2022 07:35:46] INFO [upload_attendance:48] Attendance being updated
+[27/May/2022 07:41:48] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[27/May/2022 07:41:49] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[27/May/2022 07:42:16] INFO [prof_module:178] Prof Professor uploaded files for CS1100 and took attendance for date 2022-05-27
+[27/May/2022 07:42:17] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[27/May/2022 07:42:20] INFO [upload_attendance:29] Uploading attendance for CS1100 on 2022-05-27
+[27/May/2022 07:42:20] INFO [upload_attendance:48] Attendance being updated
+[27/May/2022 07:44:05] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[27/May/2022 07:44:06] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[27/May/2022 07:44:13] INFO [prof_module:178] Prof Professor uploaded files for CS1100 and took attendance for date 2022-05-27
+[27/May/2022 07:44:13] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[27/May/2022 07:44:17] INFO [upload_attendance:29] Uploading attendance for CS1100 on 2022-05-27
+[27/May/2022 07:44:17] INFO [upload_attendance:48] Attendance being updated
+[27/May/2022 07:46:14] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[27/May/2022 07:46:15] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[27/May/2022 07:46:27] INFO [prof_module:178] Prof Professor uploaded files for CS1100 and took attendance for date 2022-05-27
+[27/May/2022 07:46:27] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[27/May/2022 07:46:32] INFO [upload_attendance:29] Uploading attendance for CS1100 on 2022-05-27
+[27/May/2022 07:46:32] INFO [upload_attendance:48] Attendance being updated
+[27/May/2022 07:57:36] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[27/May/2022 07:57:37] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[27/May/2022 07:57:45] INFO [prof_module:178] Prof Professor uploaded files for CS1100 and took attendance for date 2022-05-27
+[27/May/2022 07:57:45] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[27/May/2022 07:57:51] INFO [upload_attendance:29] Uploading attendance for CS1100 on 2022-05-27
+[27/May/2022 07:57:51] INFO [upload_attendance:48] Attendance being updated
+[27/May/2022 08:01:26] INFO [prof_module:178] Prof Professor uploaded files for CS1100 and took attendance for date 2022-05-27
+[27/May/2022 08:01:26] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[27/May/2022 08:01:30] INFO [upload_attendance:29] Uploading attendance for CS1100 on 2022-05-27
+[27/May/2022 08:01:30] INFO [upload_attendance:48] Attendance being updated
+[27/May/2022 08:06:52] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[27/May/2022 08:06:54] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[27/May/2022 08:07:03] INFO [prof_module:178] Prof Professor uploaded files for CS1100 and took attendance for date 2022-05-27
+[27/May/2022 08:07:03] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[27/May/2022 08:07:08] INFO [upload_attendance:29] Uploading attendance for CS1100 on 2022-05-27
+[27/May/2022 08:07:08] INFO [upload_attendance:48] Attendance being updated
+[27/May/2022 08:15:11] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[27/May/2022 08:15:13] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[27/May/2022 08:15:23] INFO [prof_module:178] Prof Professor uploaded files for CS1100 and took attendance for date 2022-05-27
+[27/May/2022 08:15:23] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[27/May/2022 08:15:27] INFO [upload_attendance:29] Uploading attendance for CS1100 on 2022-05-27
+[27/May/2022 08:15:27] INFO [upload_attendance:48] Attendance being updated
+[27/May/2022 08:29:52] INFO [prof_module:178] Prof Professor uploaded files for CS1100 and took attendance for date 2022-05-27
+[27/May/2022 08:29:53] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[27/May/2022 08:30:00] INFO [upload_attendance:29] Uploading attendance for CS1100 on 2022-05-27
+[27/May/2022 08:30:00] INFO [upload_attendance:48] Attendance being updated
+[27/May/2022 08:40:52] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[27/May/2022 08:40:54] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[27/May/2022 08:41:03] INFO [prof_module:178] Prof Professor uploaded files for CS1100 and took attendance for date 2022-05-27
+[27/May/2022 08:41:03] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[27/May/2022 08:41:09] INFO [upload_attendance:29] Uploading attendance for CS1100 on 2022-05-27
+[27/May/2022 08:41:09] INFO [upload_attendance:48] Attendance being updated
+[27/May/2022 08:58:34] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[27/May/2022 09:02:00] INFO [auth_module:206] Prof Logging in
+[27/May/2022 09:02:00] INFO [prof_module:35] Prof Professor went to his home page
+[27/May/2022 09:53:22] INFO [prof_module:50] Prof Professor went to CSF213 course page
+[27/May/2022 09:53:30] INFO [prof_module:130] Prof Professor uploaded class photos for CSF213
+[27/May/2022 09:54:12] INFO [auth_module:39] Prof Logging out
+[27/May/2022 09:54:22] INFO [auth_module:206] Student1 Logging in
+[27/May/2022 09:54:22] INFO [stud_module:33] Student1 Student went to his home page
+[27/May/2022 09:54:25] INFO [stud_module:63] Student1 Student went to CS1100 course page
+[27/May/2022 09:54:26] INFO [stud_module:120] Student1 Student viewed CS1100 queries
+[27/May/2022 09:54:29] INFO [stud_module:63] Student1 Student went to CS1100 course page
+[27/May/2022 09:54:34] INFO [stud_module:237] Student1 Student saw his history for CS1100 corresponding to the date 20/05/2022
+[27/May/2022 09:54:38] INFO [auth_module:39] Student1 Logging out
+[27/May/2022 11:01:46] INFO [auth_module:206] Prof Logging in
+[27/May/2022 11:01:46] INFO [prof_module:35] Prof Professor went to his home page
+[27/May/2022 11:01:52] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[27/May/2022 11:01:54] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[27/May/2022 11:02:03] INFO [prof_module:50] Prof Professor went to CS1300 course page
+[27/May/2022 11:02:06] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[27/May/2022 11:02:14] INFO [prof_module:178] Prof Professor uploaded files for CS1300 and took attendance for date 2022-05-27
+[27/May/2022 11:02:14] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[27/May/2022 11:02:20] INFO [upload_attendance:29] Uploading attendance for CS1300 on 2022-05-27
+[27/May/2022 11:02:21] INFO [upload_attendance:43] Attendance entries added
+[27/May/2022 11:03:47] INFO [prof_module:178] Prof Professor uploaded files for CS1300 and took attendance for date 2022-05-27
+[27/May/2022 11:03:47] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[27/May/2022 11:03:54] INFO [upload_attendance:29] Uploading attendance for CS1300 on 2022-05-27
+[27/May/2022 11:03:54] INFO [upload_attendance:48] Attendance being updated
+[27/May/2022 11:07:56] INFO [prof_module:178] Prof Professor uploaded files for CS1300 and took attendance for date 2022-05-27
+[27/May/2022 11:07:56] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[27/May/2022 11:08:01] INFO [upload_attendance:29] Uploading attendance for CS1300 on 2022-05-27
+[27/May/2022 11:08:01] INFO [upload_attendance:48] Attendance being updated
+[27/May/2022 11:11:08] INFO [prof_module:178] Prof Professor uploaded files for CS1300 and took attendance for date 2022-05-27
+[27/May/2022 11:11:08] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[27/May/2022 11:11:12] INFO [upload_attendance:29] Uploading attendance for CS1300 on 2022-05-27
+[27/May/2022 11:11:12] INFO [upload_attendance:48] Attendance being updated
+[27/May/2022 11:19:15] INFO [prof_module:50] Prof Professor went to CS1300 course page
+[27/May/2022 11:19:17] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[27/May/2022 11:19:27] INFO [prof_module:178] Prof Professor uploaded files for CS1300 and took attendance for date 2022-05-27
+[27/May/2022 11:19:27] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[27/May/2022 11:19:32] INFO [upload_attendance:29] Uploading attendance for CS1300 on 2022-05-27
+[27/May/2022 11:19:32] INFO [upload_attendance:48] Attendance being updated
+[27/May/2022 11:56:10] INFO [prof_module:178] Prof Professor uploaded files for CS1300 and took attendance for date 2022-05-27
+[27/May/2022 11:56:10] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[27/May/2022 11:56:13] INFO [upload_attendance:29] Uploading attendance for CS1300 on 2022-05-27
+[27/May/2022 11:56:13] INFO [upload_attendance:48] Attendance being updated
+[27/May/2022 11:59:50] INFO [prof_module:178] Prof Professor uploaded files for CS1300 and took attendance for date 2022-05-27
+[27/May/2022 11:59:50] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[27/May/2022 11:59:56] INFO [upload_attendance:29] Uploading attendance for CS1300 on 2022-05-27
+[27/May/2022 11:59:56] INFO [upload_attendance:48] Attendance being updated
+[27/May/2022 12:00:12] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[27/May/2022 12:00:20] INFO [prof_module:178] Prof Professor uploaded files for CS1300 and took attendance for date 2022-05-27
+[27/May/2022 12:00:20] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[27/May/2022 12:00:24] INFO [upload_attendance:29] Uploading attendance for CS1300 on 2022-05-27
+[27/May/2022 12:00:24] INFO [upload_attendance:48] Attendance being updated
+[27/May/2022 12:04:10] INFO [prof_module:178] Prof Professor uploaded files for CS1300 and took attendance for date 2022-05-27
+[27/May/2022 12:04:10] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[27/May/2022 12:04:13] INFO [upload_attendance:29] Uploading attendance for CS1300 on 2022-05-27
+[27/May/2022 12:04:13] INFO [upload_attendance:48] Attendance being updated
+[27/May/2022 12:08:07] INFO [prof_module:178] Prof Professor uploaded files for CS1300 and took attendance for date 2022-05-27
+[27/May/2022 12:08:07] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[27/May/2022 12:08:12] INFO [upload_attendance:29] Uploading attendance for CS1300 on 2022-05-27
+[27/May/2022 12:08:12] INFO [upload_attendance:48] Attendance being updated
+[27/May/2022 12:08:56] INFO [prof_module:178] Prof Professor uploaded files for CS1300 and took attendance for date 2022-05-27
+[27/May/2022 12:08:56] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[27/May/2022 12:09:00] INFO [upload_attendance:29] Uploading attendance for CS1300 on 2022-05-27
+[27/May/2022 12:09:00] INFO [upload_attendance:48] Attendance being updated
+[27/May/2022 12:09:44] INFO [prof_module:178] Prof Professor uploaded files for CS1300 and took attendance for date 2022-05-27
+[27/May/2022 12:09:44] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[27/May/2022 12:09:47] INFO [upload_attendance:29] Uploading attendance for CS1300 on 2022-05-27
+[27/May/2022 12:09:47] INFO [upload_attendance:48] Attendance being updated
+[27/May/2022 12:12:05] INFO [prof_module:178] Prof Professor uploaded files for CS1300 and took attendance for date 2022-05-27
+[27/May/2022 12:12:05] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[27/May/2022 12:12:09] INFO [upload_attendance:29] Uploading attendance for CS1300 on 2022-05-27
+[27/May/2022 12:12:09] INFO [upload_attendance:48] Attendance being updated
+[27/May/2022 12:13:45] INFO [prof_module:178] Prof Professor uploaded files for CS1300 and took attendance for date 2022-05-27
+[27/May/2022 12:13:46] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[27/May/2022 12:13:48] INFO [upload_attendance:29] Uploading attendance for CS1300 on 2022-05-27
+[27/May/2022 12:13:48] INFO [upload_attendance:48] Attendance being updated
+[27/May/2022 12:24:31] INFO [prof_module:178] Prof Professor uploaded files for CS1300 and took attendance for date 2022-05-27
+[27/May/2022 12:24:31] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[27/May/2022 12:24:36] INFO [upload_attendance:29] Uploading attendance for CS1300 on 2022-05-27
+[27/May/2022 12:24:36] INFO [upload_attendance:48] Attendance being updated
+[27/May/2022 12:36:50] INFO [prof_module:178] Prof Professor uploaded files for CS1300 and took attendance for date 2022-05-27
+[27/May/2022 12:36:50] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[27/May/2022 12:36:54] INFO [upload_attendance:29] Uploading attendance for CS1300 on 2022-05-27
+[27/May/2022 12:36:54] INFO [upload_attendance:48] Attendance being updated
+[27/May/2022 12:44:43] INFO [prof_module:178] Prof Professor uploaded files for CS1300 and took attendance for date 2022-05-27
+[27/May/2022 12:44:43] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[27/May/2022 12:44:47] INFO [upload_attendance:29] Uploading attendance for CS1300 on 2022-05-27
+[27/May/2022 12:44:47] INFO [upload_attendance:48] Attendance being updated
+[27/May/2022 12:49:25] INFO [prof_module:178] Prof Professor uploaded files for CS1300 and took attendance for date 2022-05-27
+[27/May/2022 12:49:25] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[27/May/2022 12:49:29] INFO [upload_attendance:29] Uploading attendance for CS1300 on 2022-05-27
+[27/May/2022 12:49:29] INFO [upload_attendance:48] Attendance being updated
+[27/May/2022 18:47:32] INFO [prof_module:178] Prof Professor uploaded files for CS1300 and took attendance for date 2022-05-28
+[27/May/2022 18:47:33] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[27/May/2022 18:47:49] INFO [upload_attendance:29] Uploading attendance for CS1300 on 2022-05-28
+[27/May/2022 18:47:49] INFO [upload_attendance:43] Attendance entries added
+[28/May/2022 05:11:53] INFO [prof_module:178] Prof Professor uploaded files for CS1300 and took attendance for date 2022-05-28
+[28/May/2022 05:11:53] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[28/May/2022 05:11:57] INFO [upload_attendance:29] Uploading attendance for CS1300 on 2022-05-28
+[28/May/2022 05:11:57] INFO [upload_attendance:48] Attendance being updated
+[28/May/2022 05:45:42] INFO [prof_module:178] Prof Professor uploaded files for CS1300 and took attendance for date 2022-05-28
+[28/May/2022 05:45:43] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[28/May/2022 05:45:47] INFO [upload_attendance:29] Uploading attendance for CS1300 on 2022-05-28
+[28/May/2022 05:45:47] INFO [upload_attendance:48] Attendance being updated
+[28/May/2022 09:37:37] INFO [prof_module:178] Prof Professor uploaded files for CS1300 and took attendance for date 2022-05-28
+[28/May/2022 09:37:37] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[28/May/2022 09:37:41] INFO [upload_attendance:29] Uploading attendance for CS1300 on 2022-05-28
+[28/May/2022 09:37:41] INFO [upload_attendance:48] Attendance being updated
+[28/May/2022 09:48:17] INFO [prof_module:178] Prof Professor uploaded files for CS1300 and took attendance for date 2022-05-28
+[28/May/2022 09:48:18] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[28/May/2022 09:48:26] INFO [upload_attendance:29] Uploading attendance for CS1300 on 2022-05-28
+[28/May/2022 09:48:26] INFO [upload_attendance:48] Attendance being updated
+[28/May/2022 11:26:00] INFO [prof_module:178] Prof Professor uploaded files for CS1300 and took attendance for date 2022-05-28
+[28/May/2022 11:26:00] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[28/May/2022 11:26:04] INFO [upload_attendance:29] Uploading attendance for CS1300 on 2022-05-28
+[28/May/2022 11:26:04] INFO [upload_attendance:48] Attendance being updated
+[28/May/2022 11:28:16] INFO [prof_module:178] Prof Professor uploaded files for CS1300 and took attendance for date 2022-05-28
+[28/May/2022 11:28:16] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[28/May/2022 11:28:20] INFO [upload_attendance:29] Uploading attendance for CS1300 on 2022-05-28
+[28/May/2022 11:28:20] INFO [upload_attendance:48] Attendance being updated
+[28/May/2022 11:34:42] INFO [prof_module:178] Prof Professor uploaded files for CS1300 and took attendance for date 2022-05-28
+[28/May/2022 11:34:42] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[28/May/2022 11:34:52] INFO [upload_attendance:29] Uploading attendance for CS1300 on 2022-05-28
+[28/May/2022 11:34:52] INFO [upload_attendance:48] Attendance being updated
+[28/May/2022 11:39:41] INFO [prof_module:178] Prof Professor uploaded files for CS1300 and took attendance for date 2022-05-28
+[28/May/2022 11:39:41] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[28/May/2022 11:39:49] INFO [upload_attendance:29] Uploading attendance for CS1300 on 2022-05-28
+[28/May/2022 11:39:49] INFO [upload_attendance:48] Attendance being updated
+[28/May/2022 11:47:58] INFO [prof_module:178] Prof Professor uploaded files for CS1300 and took attendance for date 2022-05-28
+[28/May/2022 11:47:58] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[28/May/2022 11:48:03] INFO [upload_attendance:29] Uploading attendance for CS1300 on 2022-05-28
+[28/May/2022 11:48:03] INFO [upload_attendance:48] Attendance being updated
+[28/May/2022 12:57:27] INFO [prof_module:178] Prof Professor uploaded files for CS1300 and took attendance for date 2022-05-28
+[28/May/2022 12:57:27] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[28/May/2022 12:57:31] INFO [upload_attendance:29] Uploading attendance for CS1300 on 2022-05-28
+[28/May/2022 12:57:31] INFO [upload_attendance:48] Attendance being updated
+[28/May/2022 13:02:19] INFO [prof_module:178] Prof Professor uploaded files for CS1300 and took attendance for date 2022-05-28
+[28/May/2022 13:02:19] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[28/May/2022 13:02:22] INFO [prof_module:130] Prof Professor uploaded class photos for CS1300
+[28/May/2022 13:02:23] INFO [upload_attendance:29] Uploading attendance for CS1300 on 2022-05-28
+[28/May/2022 13:02:23] INFO [upload_attendance:48] Attendance being updated
+[28/May/2022 13:04:19] INFO [auth_module:206] Prof Logging in
+[28/May/2022 13:04:19] INFO [prof_module:35] Prof Professor went to his home page
+[28/May/2022 13:04:22] INFO [prof_module:50] Prof Professor went to CSF213 course page
+[28/May/2022 13:04:24] INFO [prof_module:130] Prof Professor uploaded class photos for CSF213
+[28/May/2022 13:04:37] INFO [prof_module:178] Prof Professor uploaded files for CSF213 and took attendance for date 2022-05-28
+[28/May/2022 13:04:37] INFO [prof_module:130] Prof Professor uploaded class photos for CSF213
+[28/May/2022 13:04:39] INFO [upload_attendance:29] Uploading attendance for CSF213 on 2022-05-28
+[28/May/2022 13:04:39] INFO [upload_attendance:43] Attendance entries added
+[28/May/2022 13:06:13] INFO [auth_module:39] Prof Logging out
+[28/May/2022 13:06:21] INFO [auth_module:206] Prof Logging in
+[28/May/2022 13:06:21] INFO [prof_module:35] Prof Professor went to his home page
+[28/May/2022 13:06:22] INFO [prof_module:50] Prof Professor went to CSF213 course page
+[28/May/2022 13:06:24] INFO [prof_module:130] Prof Professor uploaded class photos for CSF213
+[28/May/2022 13:06:33] INFO [prof_module:178] Prof Professor uploaded files for CSF213 and took attendance for date 2022-05-28
+[28/May/2022 13:06:33] INFO [prof_module:130] Prof Professor uploaded class photos for CSF213
+[28/May/2022 13:06:35] INFO [upload_attendance:29] Uploading attendance for CSF213 on 2022-05-28
+[28/May/2022 13:06:35] INFO [upload_attendance:48] Attendance being updated
+[28/May/2022 13:08:19] INFO [prof_module:178] Prof Professor uploaded files for CSF213 and took attendance for date 2022-05-28
+[28/May/2022 13:08:19] INFO [prof_module:130] Prof Professor uploaded class photos for CSF213
+[28/May/2022 13:08:21] INFO [upload_attendance:29] Uploading attendance for CSF213 on 2022-05-28
+[28/May/2022 13:08:21] INFO [upload_attendance:48] Attendance being updated
+[29/May/2022 15:02:42] INFO [auth_module:39] Prof Logging out
+[29/May/2022 15:03:34] INFO [auth_module:206] Nikhil Logging in
+[29/May/2022 15:03:34] INFO [stud_module:33] Nikhil Student went to his home page
+[29/May/2022 15:03:38] INFO [stud_module:63] Nikhil Student went to CSF211 course page
+[29/May/2022 15:03:49] INFO [stud_module:237] Nikhil Student saw his history for CSF211 corresponding to the date 29/05/2022
+[29/May/2022 15:03:51] INFO [stud_module:63] Nikhil Student went to CSF211 course page
+[29/May/2022 15:03:54] INFO [stud_module:120] Nikhil Student viewed CSF211 queries
+[29/May/2022 15:03:57] INFO [stud_module:63] Nikhil Student went to CSF211 course page
+[29/May/2022 15:03:59] INFO [stud_module:33] Nikhil Student went to his home page
+[29/May/2022 15:04:02] INFO [auth_module:39] Nikhil Logging out
+[29/May/2022 15:04:27] INFO [auth_module:206] Prof Logging in
+[29/May/2022 15:04:27] INFO [prof_module:35] Prof Professor went to his home page
+[29/May/2022 15:04:31] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[29/May/2022 15:04:35] INFO [prof_module:101] Prof Professor saw the history of a CS1100 course
+[29/May/2022 15:04:35] INFO [prof_module:74] Prof Professor saw the daily report of CS1100 corresponding to the date 2022/05/29
+[29/May/2022 15:04:36] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[29/May/2022 15:04:36] INFO [prof_module:74] Prof Professor saw the daily report of CS1100 corresponding to the date 2022/05/29
+[29/May/2022 15:04:37] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[29/May/2022 15:04:39] INFO [prof_module:198] Prof Professor saw queries for CS1100
+[29/May/2022 15:04:40] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[29/May/2022 15:04:43] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[29/May/2022 15:04:47] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[29/May/2022 15:04:48] INFO [prof_module:35] Prof Professor went to his home page
+[29/May/2022 15:05:02] INFO [auth_module:39] Prof Logging out
+[29/May/2022 15:26:12] INFO [auth_module:206] Nikhil Logging in
+[29/May/2022 15:26:12] INFO [stud_module:33] Nikhil Student went to his home page
+[29/May/2022 15:27:13] INFO [stud_module:63] Nikhil Student went to CSF211 course page
+[29/May/2022 15:27:41] INFO [auth_module:39] Nikhil Logging out
+[29/May/2022 15:27:48] INFO [auth_module:206] Prof Logging in
+[29/May/2022 15:27:48] INFO [prof_module:35] Prof Professor went to his home page
+[29/May/2022 15:27:57] INFO [prof_module:50] Prof Professor went to CS1100 course page
+[29/May/2022 15:35:12] INFO [prof_module:130] Prof Professor uploaded class photos for CS1100
+[29/May/2022 16:02:29] INFO [auth_module:206] Prof. Ishita Logging in
+[29/May/2022 16:02:29] INFO [prof_module:35] Prof. Ishita Professor went to his home page
+[29/May/2022 16:02:32] INFO [auth_module:39] Prof. Ishita Logging out
+[29/May/2022 16:02:50] INFO [auth_module:206] Nikhil Logging in
+[29/May/2022 16:02:50] INFO [stud_module:33] Nikhil Student went to his home page
+[29/May/2022 16:02:53] INFO [auth_module:39] Nikhil Logging out

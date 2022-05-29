@@ -1,0 +1,24 @@
+<html>
+<head>
+    <title>Add Student</title>
+</head>
+<body>
+
+  <p>Enter the student details:</p>
+  <form action="/store_stud/" method="post">
+    Name:<br>
+    <input type="text" name="name"><br>
+    Roll No:<br>
+    <input type="text" name="name"><br>
+    Images:<br>
+    <input type="file" name="filefield" multiple="multiple">
+    <input type="submit" value="Submit"><br>
+  </form>
+  {% if messages %}
+    {% for message in messages %}
+      <span {% if message.tags %} class="{{ message.tags }}"{% endif %}>{{ message }}</span><br>
+    {% endfor %}
+  {% endif %}
+
+</body>
+</html>
