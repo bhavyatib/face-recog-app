@@ -47,6 +47,3 @@ You can use the following credentials to login to the Django Admin Dashboard:
   website: http://127.0.0.1:8000/admin   
   username: bhavyatibrewala   
   password: bhavyadjango   
-
-
-Unfortunately, due to the API malfunctioning, the Take Attendance module is currently not functional. However, all the other modules are fully functional. I am working on changing the API to make the project complete. This will take another week.
